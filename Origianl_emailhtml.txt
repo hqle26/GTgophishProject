@@ -1,0 +1,181 @@
+Original:
+
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Apoya a GT SSO: Georgia Tech Spanish Speaking Organization</title>
+</head>
+<body style="margin:0; padding:0; background-color:#EFE6D8; font-family:Verdana, Geneva, sans-serif;">
+
+  <!-- Preheader (hidden preview text) -->
+  <div style="display:none; max-height:0; overflow:hidden; mso-hide:all;">
+    Tu aporte llena nuestras fiestas, becas y eventos culturales de color este semestre.
+  </div>
+
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#EFE6D8;">
+    <tr>
+      <td align="center" style="padding:20px 16px;">
+
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px; max-width:600px; background-color:#FFF8ED; border-radius:4px; overflow:hidden;">
+
+          <!-- Papel picado bunting strip -->
+          <tr>
+            <td style="line-height:0; font-size:0;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="20%" style="background-color:#C81D3A; height:8px; line-height:8px; font-size:8px;">&nbsp;</td>
+                  <td width="20%" style="background-color:#F5B700; height:8px; line-height:8px; font-size:8px;">&nbsp;</td>
+                  <td width="20%" style="background-color:#0B6E7C; height:8px; line-height:8px; font-size:8px;">&nbsp;</td>
+                  <td width="20%" style="background-color:#E8792D; height:8px; line-height:8px; font-size:8px;">&nbsp;</td>
+                  <td width="20%" style="background-color:#7A2E5C; height:8px; line-height:8px; font-size:8px;">&nbsp;</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Header + hero combined -->
+          <tr>
+            <td align="center" style="background-color:#7A2E5C; padding:22px 32px 20px 32px;">
+              <div style="font-family:Georgia, 'Times New Roman', serif; color:#F5B700; font-size:11px; letter-spacing:1px; margin-bottom:4px;">
+                GEORGIA TECH
+              </div>
+              <div style="font-family:Georgia, 'Times New Roman', serif; color:#FFFFFF; font-size:23px; line-height:1.15; font-weight:bold; margin-bottom:8px;">
+                Spanish Speaking Organization
+              </div>
+              <div style="font-family:Georgia, 'Times New Roman', serif; color:#F5D8C2; font-size:14px; font-style:italic;">
+                Cada fiesta, cada beca, cada bienvenida: gracias a ustedes.
+              </div>
+            </td>
+          </tr>
+
+          <!-- Body -->
+          <tr>
+            <td style="padding:20px 40px 4px 40px; font-family:Verdana, Geneva, sans-serif; color:#2B1B2E; font-size:14px; line-height:1.55;">
+              <p style="margin:0 0 10px 0;">Estimados miembros de GT SSO,</p>
+              <p style="margin:0;">
+                This semester GT SSO brought together 300+ students for Noche de
+                Salsa, our Día de los Muertos altar exhibit, and weekly conversation
+                tables. As we plan Hispanic Heritage Month and next spring's
+                scholarship fund, we're asking members to consider a small donation
+                to help cover venue costs, performers, and supplies.
+              </p>
+            </td>
+          </tr>
+
+          <!-- What it funds: compact 2x2 grid -->
+          <tr>
+            <td style="padding:14px 40px 4px 40px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#FBF2E1; border-left:4px solid #F5B700; border-radius:2px;">
+                <tr>
+                  <td colspan="2" style="padding:12px 20px 4px 20px; font-family:Georgia, 'Times New Roman', serif; font-size:14px; color:#7A2E5C; font-weight:bold;">
+                    Where your donation goes
+                  </td>
+                </tr>
+                <tr>
+                  <td width="50%" style="padding:2px 12px 10px 20px; font-family:Verdana, Geneva, sans-serif; color:#2B1B2E; font-size:12.5px; line-height:1.5; vertical-align:top;">
+                    Cultural events like Noche de Salsa and Carnaval night
+                  </td>
+                  <td width="50%" style="padding:2px 20px 10px 12px; font-family:Verdana, Geneva, sans-serif; color:#2B1B2E; font-size:12.5px; line-height:1.5; vertical-align:top;">
+                    The GT SSO scholarship fund for study-abroad members
+                  </td>
+                </tr>
+                <tr>
+                  <td width="50%" style="padding:0 12px 14px 20px; font-family:Verdana, Geneva, sans-serif; color:#2B1B2E; font-size:12.5px; line-height:1.5; vertical-align:top;">
+                    Food and supplies at weekly conversation tables
+                  </td>
+                  <td width="50%" style="padding:0 20px 14px 12px; font-family:Verdana, Geneva, sans-serif; color:#2B1B2E; font-size:12.5px; line-height:1.5; vertical-align:top;">
+                    Travel support for our regional LSA conference delegation
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Suggested tiers -->
+          <tr>
+            <td style="padding:16px 40px 4px 40px;">
+              <div style="font-family:Georgia, 'Times New Roman', serif; font-size:14px; color:#7A2E5C; font-weight:bold; margin-bottom:8px; text-align:center;">
+                Suggested contribution
+              </div>
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="32%" align="center" style="background-color:#0B6E7C; border-radius:4px; padding:10px 4px;">
+                    <span style="font-family:Georgia, serif; color:#FFFFFF; font-size:17px; font-weight:bold;">$10</span>
+
+                    <span style="font-family:Verdana, sans-serif; color:#DCEFF0; font-size:10px;">Amigo/a</span>
+                  </td>
+                  <td width="2%">&nbsp;</td>
+                  <td width="32%" align="center" style="background-color:#E8792D; border-radius:4px; padding:10px 4px;">
+                    <span style="font-family:Georgia, serif; color:#FFFFFF; font-size:17px; font-weight:bold;">$25</span>
+
+                    <span style="font-family:Verdana, sans-serif; color:#FCE6D3; font-size:10px;">Compañero/a</span>
+                  </td>
+                  <td width="2%">&nbsp;</td>
+                  <td width="32%" align="center" style="background-color:#C81D3A; border-radius:4px; padding:10px 4px;">
+                    <span style="font-family:Georgia, serif; color:#FFFFFF; font-size:17px; font-weight:bold;">$50</span>
+
+                    <span style="font-family:Verdana, sans-serif; color:#F6D3D9; font-size:10px;">Padrino/Madrina</span>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- CTA -->
+          <tr>
+            <td align="center" style="padding:20px 40px 18px 40px;">
+              <table role="presentation" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td align="center" style="background-color:#F5B700; border-radius:26px;">
+                    <a href="https://example.com/gt-sso-donate" target="_blank"
+                       style="display:inline-block; padding:11px 36px; font-family:Georgia, 'Times New Roman', serif; font-size:15px; font-weight:bold; color:#2B1B2E; text-decoration:none;">
+                      Donar ahora
+                    </a>
+                  </td>
+                </tr>
+              </table>
+              <p style="font-family:Verdana, sans-serif; color:#6B5F63; font-size:11px; margin:10px 0 0 0;">
+                Processed through Georgia Tech's official giving platform. Feel free
+                to forward this to any other potential patrons of our organization.
+                Every donation matters!
+              </p>
+            </td>
+          </tr>
+
+          <!-- Footer (sign-off combined) -->
+          <tr>
+            <td style="background-color:#2B1B2E; padding:18px 32px; text-align:center;">
+              <p style="font-family:Verdana, sans-serif; color:#D8C9CE; font-size:12px; margin:0 0 8px 0;">
+                Con cariño y gracias, The GT SSO Officer Team
+              </p>
+              <p style="font-family:Verdana, sans-serif; color:#8A7A80; font-size:10.5px; margin:0;">
+                [Org contact email] &nbsp;|&nbsp; <a href="#" style="color:#8A7A80;">Unsubscribe from GT SSO emails</a>
+              </p>
+            </td>
+          </tr>
+
+          <!-- Bottom bunting -->
+          <tr>
+            <td style="line-height:0; font-size:0;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="20%" style="background-color:#7A2E5C; height:8px; line-height:8px; font-size:8px;">&nbsp;</td>
+                  <td width="20%" style="background-color:#E8792D; height:8px; line-height:8px; font-size:8px;">&nbsp;</td>
+                  <td width="20%" style="background-color:#0B6E7C; height:8px; line-height:8px; font-size:8px;">&nbsp;</td>
+                  <td width="20%" style="background-color:#F5B700; height:8px; line-height:8px; font-size:8px;">&nbsp;</td>
+                  <td width="20%" style="background-color:#C81D3A; height:8px; line-height:8px; font-size:8px;">&nbsp;</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>
