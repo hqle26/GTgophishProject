@@ -1,0 +1,76 @@
+Final:
+
+<div style="font-family:Verdana,Geneva,sans-serif;max-width:600px;width:600px;background:#fff8ed;border-radius:4px;overflow:hidden">
+
+  <div style="text-align:center;background:#7a2e5c;padding:22px 32px 20px">
+    <div style="font-family:Georgia,serif;color:#f5b700;font-size:11px;letter-spacing:1px;margin-bottom:4px">
+      GEORGIA TECH
+    </div>
+    <div style="font-family:Georgia,serif;color:#fff;font-size:23px;line-height:1.15;font-weight:bold;margin-bottom:8px">
+      Spanish Speaking Organization
+    </div>
+    <div style="font-family:Georgia,serif;color:#f5d8c2;font-size:14px;font-style:italic">
+      Language, Culture, and Community
+    </div>
+  </div>
+
+  <div style="padding:20px 40px 4px;color:#2b1b2e;font-size:14px;line-height:1.55">
+    <p style="margin:0 0 12px">Dear Eldon Luk,</p>
+    <p style="margin:0">
+      Last semester, GT SSO brought together 300+ students for Noche de Salsa,
+      our Día de los Muertos altar exhibit, and weekly conversation tables.
+    </p>
+    <p style="margin:12px 0 0">
+      As we plan upcoming events, we’d love for you to sign up and join the team!
+    </p>
+  </div>
+
+  <div style="padding:16px 40px 4px">
+    <div style="background:#fbf2e1;border-left:4px solid #f5b700;border-radius:2px;padding:12px 20px">
+      <div style="font-family:Georgia,serif;font-size:14px;color:#7a2e5c;font-weight:bold;margin-bottom:8px">
+        Upcoming events
+      </div>
+      <div style="color:#2b1b2e;font-size:12.5px;line-height:1.5">
+        • Salsa Night<br>
+        • Carnival Night<br>
+        • LSA Conference Delegation<br>
+        • Weekly Spanish conversation tables
+      </div>
+    </div>
+  </div>
+
+  <div style="padding:16px 40px 4px;color:#2b1b2e;font-size:14px;line-height:1.55;text-align:center">
+    <p style="font-family:Georgia,serif;color:#7a2e5c;font-weight:bold;margin:0 0 8px">
+      Interested in getting involved?
+    </p>
+  </div>
+
+  <div style="text-align:center;padding:20px 40px 18px">
+    <a href="https://gtspanishspeaking.org/"
+       style="display:inline-block;background:#f5b700;color:#2b1b2e;padding:11px 36px;border-radius:26px;font-family:Georgia,serif;font-size:15px;font-weight:bold;text-decoration:none">
+      Event Registration
+    </a>
+
+    <div style="color:#2b1b2e;font-size:14px;text-align:left;margin-top:16px">
+      Come join us, whether you’re interested in helping with events,
+      meeting other Spanish-speaking students, or representing GT SSO at conferences.
+    </div>
+  </div>
+
+  <div style="background:#2b1b2e;padding:18px 32px;text-align:center">
+    <p style="font-family:Verdana,sans-serif;color:#d8c9ce;font-size:12px;margin:0">
+      With love and thank you,<br>
+      The GT SSO Officer Team
+    </p>
+  </div>
+
+  <div style="height:8px;background:linear-gradient(
+    to right,
+    #7a2e5c 20%,
+    #e8792d 20% 40%,
+    #0b6e7c 40% 60%,
+    #f5b700 60% 80%,
+    #c81d3a 80%
+  )"></div>
+
+</div>
